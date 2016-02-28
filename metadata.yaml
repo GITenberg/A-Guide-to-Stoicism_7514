@@ -1,0 +1,23 @@
+_repo: A-Guide-to-Stoicism_7514
+creator:
+  author:
+    agent_name: Stock, St. George William Joseph
+    alias: Stock, Saint George William Joseph
+    birthdate: 1850
+    gutenberg_agent_id: '2084'
+    url: http://www.gutenberg.org/2009/agents/2084
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Stoics'
+title: A Guide to Stoicism
+url: http://www.gutenberg.org/ebooks/7514
